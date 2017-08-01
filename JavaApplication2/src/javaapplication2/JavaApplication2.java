@@ -19,6 +19,9 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"Hola Mundo");
+           JOptionPane.showMessageDialog(null,"1");
+           JOptionPane.showMessageDialog(null,"2");
+           JOptionPane.showMessageDialog(null,"3");
     }
     
 }
